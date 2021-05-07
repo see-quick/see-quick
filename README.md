@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Strimzi project (https://strimzi.io/).
 - 📫 How to reach me: https://www.linkedin.com/in/majkl-orsak/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=see-quick)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=see-quick&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=see-quick)](https://github.com/anuraghazra/github-readme-stats)
 
 NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
