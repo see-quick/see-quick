@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=see-quick&show_icons=true&count_private=true&theme=tokyonight)
 
+![Hussein's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=see-quick&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=see-quick&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seequick)](https://github.com/anuraghazra/github-readme-stats)
