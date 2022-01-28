@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Strimzi project (https://strimzi.io/).
 - 📫 How to reach me: https://www.linkedin.com/in/majkl-orsak/
-- 🌱 I’m currently learning about Blockchain technology but I really like to learn new things...
+- 🌱 I’m currently learning about Blockchain technology but I really like to learn new things..
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=see-quick&show_icons=true&count_private=true&theme=tokyonight)
 
