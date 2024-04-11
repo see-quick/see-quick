@@ -1,9 +1,9 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Strimzi project (https://strimzi.io/).
-- 📫 How to reach me: https://www.linkedin.com/in/majkl-orsak/
-- 🌱 I’m currently learning about Blockchain technology but I really like to learn new things..
-- 📖 Blog (https://see-quick.github.io/)
+### Hello! 👋
+🚀 Currently, I'm dedicating my efforts as a maintainer for the Strimzi project. Explore more at [Strimzi.io](https://strimzi.io/).
+📬 Reach out to me via my LinkedIn: [Majkl Orsak](https://www.linkedin.com/in/majkl-orsak/).
+🌐 On a journey of discovery about Blockchain technology, always eager to absorb new knowledge.
+✍️ Visit my Blog: [see-quick.github.io](https://see-quick.github.io/)
+💻 Actively contributing to various interesting open-source projects, always looking for new challenges and collaborations.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=see-quick&show_icons=true&count_private=true&theme=tokyonight)
 
