@@ -1,10 +1,13 @@
 ### Hello! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=see-quick&label=Profile%20views&color=0e75b6&style=flat" alt="see-quick" /> </p>
 
 - 🚀 Currently, I'm dedicating my efforts as a maintainer for the Strimzi project. Explore more at [Strimzi.io](https://strimzi.io/).
 - 📬 Reach out to me via my LinkedIn: [Majkl Orsak](https://www.linkedin.com/in/majkl-orsak/).
 - 🌐 On a journey of discovery about Blockchain technology, always eager to absorb new knowledge.
 - ✍️ Visit my Blog: [see-quick.github.io](https://see-quick.github.io/)
 - 💻 Actively contributing to various interesting open-source projects, always looking for new challenges and collaborations.
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=see-quick" alt="see-quick" /></a> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=see-quick&show_icons=true&count_private=true&theme=tokyonight)
 
