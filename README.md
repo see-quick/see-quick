@@ -1,8 +1,9 @@
 ### Hello! 👋
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=see-quick&label=Profile%20views&color=0e75b6&style=flat" alt="see-quick" /> </p>
 
 - 🚀 Currently, I'm dedicating my efforts as a maintainer for the Strimzi project. Explore more at [Strimzi.io](https://strimzi.io/).
-- 📬 Reach out to me via my LinkedIn: [Majkl Orsak](https://www.linkedin.com/in/majkl-orsak/).
+- 📬 Reach out to me via my LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/majkl-orsak/)](https://www.linkedin.com/in/majkl-orsak/).
 - 🌐 On a journey of discovery about Blockchain technology, always eager to absorb new knowledge.
 - ✍️ Visit my Blog: [see-quick.github.io](https://see-quick.github.io/)
 - 💻 Actively contributing to various interesting open-source projects, always looking for new challenges and collaborations.
