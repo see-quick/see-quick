@@ -8,8 +8,6 @@
 - ✍️ Visit my Blog: [see-quick.github.io](https://see-quick.github.io/)
 - 💻 Actively contributing to various interesting open-source projects, always looking for new challenges and collaborations.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=see-quick" alt="see-quick" /></a> </p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=see-quick&show_icons=true&count_private=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=see-quick&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
