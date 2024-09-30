@@ -10,6 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=see-quick&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+```markdown
        .-"-.            .-"-.            .-"-.           .-"-.
      _/_-.-_\_        _/.-.-.\_        _/.-.-.\_       _/.-.-.\_
     / __} {__ \      /|( o o )|\      ( ( o o ) )     ( ( o o ) )
@@ -17,6 +18,7 @@
   / / \'---'/ \ \  / / \'---'/ \ \      \'/^\'/         \ .-. /
   \ \_/`"""`\_/ /  \ \_/`"""`\_/ /      /`\ /`\         /`"""`\
    \           /    \           /      /  /|\  \       /       \
+```
 
 NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 
