@@ -11,13 +11,24 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=see-quick&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ```markdown
-       .-"-.            .-"-.            .-"-.           .-"-.
-     _/_-.-_\_        _/.-.-.\_        _/.-.-.\_       _/.-.-.\_
-    / __} {__ \      /|( o o )|\      ( ( o o ) )     ( ( o o ) )
-   / //  "  \\ \    | //  "  \\ |      |/  "  \|       |/  "  \|
-  / / \'---'/ \ \  / / \'---'/ \ \      \'/^\'/         \ .-. /
-  \ \_/`"""`\_/ /  \ \_/`"""`\_/ /      /`\ /`\         /`"""`\
-   \           /    \           /      /  /|\  \       /       \
+     ┌───────────────────────────────────────────────┐
+     │          FORMAL VERIFICATION                  │
+     ├───────────────────────────────────────────────┤
+     │  ∀x, y ∈ S. (x ≠ y) → ¬(P(x) ∧ P(y))          │  (Uniqueness)
+     │  □(φ → ◇ψ)  →  ¬◇(¬ψ ∧ φ)                     │  (Temporal Logic)
+     │  ⊢ {P}  Code_Block  {Q}                       │  (Hoare Triple)
+     │                                               │
+     │  System ⊨ □(Request → ◇Response)              │  (Liveness)
+     │  System ⊨ ¬◇(Critical1 ∧ Critical2)           │  (Mutual Exclusion)
+     │  System ⊨ □(¬Bad_State)                       │  (Safety Property)
+     │                                               │
+     │  Proof:                                       │
+     │  1. Assume φ holds at time t                  │
+     │  2. By transition rules, ◇ψ holds at t+1      │
+     │  3. Therefore, □(φ → ◇ψ) is valid             │
+     │  4. Since □(¬Bad_State), no invalid state     │
+     │  ∎                                            │
+     └───────────────────────────────────────────────┘
 ```
 
 NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
