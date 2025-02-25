@@ -11,41 +11,30 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=see-quick&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ```markdown
-     ┌───────────────────────────────────────────────┐
-     │          FORMAL VERIFICATION                  │
-     ├───────────────────────────────────────────────┤
-     │  ∀x, y ∈ S. (x ≠ y) → ¬(P(x) ∧ P(y))          │  (Uniqueness)
-     │  □(φ → ◇ψ)  →  ¬◇(¬ψ ∧ φ)                     │  (Temporal Logic)
-     │  ⊢ {P}  Code_Block  {Q}                       │  (Hoare Triple)
-     │                                               │
-     │  System ⊨ □(Request → ◇Response)              │  (Liveness)
-     │  System ⊨ ¬◇(Critical1 ∧ Critical2)           │  (Mutual Exclusion)
-     │  System ⊨ □(¬Bad_State)                       │  (Safety Property)
-     │                                               │
-     │  Proof:                                       │
-     │  1. Assume φ holds at time t                  │
-     │  2. By transition rules, ◇ψ holds at t+1      │
-     │  3. Therefore, □(φ → ◇ψ) is valid             │
-     │  4. Since □(¬Bad_State), no invalid state     │
-     │  ∎                                            │
-     └───────────────────────────────────────────────┘
+🛠️ Formal Verification
+┌───────────────────────────────────────────────┐
+│  ∀x, y ∈ S. (x ≠ y) → ¬(P(x) ∧ P(y))          │  (Uniqueness)
+│  □(φ → ◇ψ)  →  ¬◇(¬ψ ∧ φ)                     │  (Temporal Logic)
+│  ⊢ {P}  Code_Block  {Q}                       │  (Hoare Triple)
+│                                               │
+│  ✅ Liveness Example                          │
+│  System ⊨ □(Button_Pressed → ◇Light_On)       │  (If the button is pressed, the light will turn on)
+│                                               │
+│  🛡️ Safety Property                           │
+│  System ⊨ □(¬Bad_State)                       │  (System never reaches an invalid state)
+│                                               │
+│  🔄 Mutual Exclusion                          │
+│  System ⊨ ¬◇(Critical1 ∧ Critical2)           │  (Two processes can’t be critical at once)
+│                                               │
+│  📜 Proof:                                    │
+│   1️⃣ Assume φ holds at time t                 │
+│   2️⃣ By transition rules, ◇ψ holds at t+1     │
+│   3️⃣ Therefore, □(φ → ◇ψ) is valid            │
+│   4️⃣ Since □(¬Bad_State), no invalid state    │
+│   ✅ Q.E.D.                                   │
+└───────────────────────────────────────────────┘
 ```
 
 NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
-
-<!--
-**see-quick/see-quick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
