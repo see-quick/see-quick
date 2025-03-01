@@ -4,6 +4,14 @@
 - 📬 Reach out to me via my LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/majkl-orsak/)](https://www.linkedin.com/in/majkl-orsak/).
 - 🌐 On a journey of discovery about formal verification methods, always eager to absorb new knowledge and explore rigorous system validations.
 - ✍️ Visit my Blog: [see-quick.github.io](https://see-quick.github.io/)
+
+### Latest Blog Posts
+
+| Date       | Title                                                                 | Link                                                           |
+|------------|-----------------------------------------------------------------------|----------------------------------------------------------------|
+| 2025-03-01 | 12 🚀 Supercharge Your Dev Setup with Neovim, Starship, and WezTerm   | [Read more](https://see-quick.github.io/posts/nvim-sharship-wezterm/) |
+| 2024-12-24 | 11 My Advent of Code 2024 Journey                        | [Read more](https://see-quick.github.io/posts/advent-of-code-2024/) |
+
 - 💻 Actively contributing to various interesting open-source projects, always looking for new challenges and collaborations.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=see-quick&show_icons=true&count_private=true&theme=tokyonight)
