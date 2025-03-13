@@ -51,7 +51,7 @@
 │      Time:  0   1   2   3   4   5                    │
 │      φ:    ──✘──✘──✔──✘──✘──✘──                      │
 │                                                      │
-│  3️⃣  Xφ (Next) - φ holds in the next state           │
+│  3️⃣  ◯φ (Next) - φ holds in the next state           │
 │      Time:  0   1   2   3   4   5                    │
 │      φ:    ──✘──✔──✘──✘──✘──✘──                      │
 │                                                      │
