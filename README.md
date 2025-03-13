@@ -19,51 +19,51 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=see-quick&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ```markdown
-🛠️ \033[1;34mFormal Verification\033[0m
+🛠️ Formal Verification
 ┌──────────────────────────────────────────────────────┐
-│  ∀x, y ∈ S. (x ≠ y) → ¬(P(x) ∧ P(y))                 │  (\033[1;36mUniqueness\033[0m)
-│  □(φ → ◇ψ)  →  ¬◇(¬ψ ∧ φ)                            │  (\033[1;36mTemporal Logic\033[0m)
-│  ⊢ {P}  Code_Block  {Q}                              │  (\033[1;36mHoare Triple\033[0m)
+│  ∀x, y ∈ S. (x ≠ y) → ¬(P(x) ∧ P(y))                 │  (Uniqueness)
+│  □(φ → ◇ψ)  →  ¬◇(¬ψ ∧ φ)                            │  (Temporal Logic)
+│  ⊢ {P}  Code_Block  {Q}                              │  (Hoare Triple)
 │                                                      │
-│  ✅ \033[1;32mLiveness Example\033[0m                                  │
-│  System ⊨ □(Button_Pressed → ◇Light_On)            │  (If the button is pressed, the light will turn on)
+│  ✅ Liveness Example                                 │
+│  System ⊨ □(Button_Pressed → ◇Light_On)              │  (If the button is pressed, the light will turn on)
 │                                                      │
-│  🛡️ \033[1;31mSafety Property\033[0m                                │
-│  System ⊨ □(¬Bad_State)                            │  (System never reaches an invalid state)
+│  🛡️ Safety Property                                  │
+│  System ⊨ □(¬Bad_State)                              │  (System never reaches an invalid state)
 │                                                      │
-│  🔄 \033[1;33mMutual Exclusion\033[0m                               │
-│  System ⊨ ¬◇(Critical1 ∧ Critical2)                │  (Two processes can’t be critical at once)
+│  🔄 Mutual Exclusion                                 │
+│  System ⊨ ¬◇(Critical1 ∧ Critical2)                  │  (Two processes can’t be critical at once)
 │                                                      │
-│  📜 \033[1;35mProof:\033[0m                                         │
-│   1️⃣ Assume φ holds at time t                      │
-│   2️⃣ By transition rules, ◇ψ holds at t+1          │
-│   3️⃣ Therefore, □(φ → ◇ψ) is valid                 │
-│   4️⃣ Since □(¬Bad_State), no invalid state         │
-│   ✅ Q.E.D.                                        │
+│  📜 Proof:                                           │
+│   1️⃣ Assume φ holds at time t                        │
+│   2️⃣ By transition rules, ◇ψ holds at t+1            │
+│   3️⃣ Therefore, □(φ → ◇ψ) is valid                   │
+│   4️⃣ Since □(¬Bad_State), no invalid state           │
+│   ✅ Q.E.D.                                          │
 │                                                      │
-│  ⏳ \033[1;34mTemporal Logic Operators\033[0m                         │
+│  ⏳ Temporal Logic Operators                         │
 │                                                      │
-│  1️⃣  □φ (\033[1;32mGlobally\033[0m) - φ holds in all future states │
+│  1️⃣  □φ (Globally) - φ holds in all future states    │
 │      Time:  0   1   2   3   4   5                    │
-│      φ:    ──✔──✔──✔──✔──✔──✔──                     │
+│      φ:    ──✔──✔──✔──✔──✔──✔──                      │
 │                                                      │
-│  2️⃣  ◇φ (\033[1;32mEventually\033[0m) - φ holds at some future state │
+│  2️⃣  ◇φ (Eventually) - φ holds at some future state  │
 │      Time:  0   1   2   3   4   5                    │
-│      φ:    ──✘──✘──✔──✘──✘──✘──                     │
+│      φ:    ──✘──✘──✔──✘──✘──✘──                      │
 │                                                      │
-│  3️⃣  Xφ (\033[1;32mNext\033[0m) - φ holds in the next state         │
+│  3️⃣  Xφ (Next) - φ holds in the next state           │
 │      Time:  0   1   2   3   4   5                    │
-│      φ:    ──✘──✔──✘──✘──✘──✘──                     │
+│      φ:    ──✘──✔──✘──✘──✘──✘──                      │
 │                                                      │
-│  4️⃣  φ U ψ (\033[1;32mUntil\033[0m) - φ holds until ψ holds        │
+│  4️⃣  φ U ψ (Until) - φ holds until ψ holds           │
 │      Time:  0   1   2   3   4   5                    │
-│      φ:    ──✔──✔──✔──✘──✘──✘──                     │
-│      ψ:    ──✘──✘──✘──✔──✔──✔──                     │
+│      φ:    ──✔──✔──✔──✘──✘──✘──                      │
+│      ψ:    ──✘──✘──✘──✔──✔──✔──                      │
 │                                                      │
-│  5️⃣  φ W ψ (\033[1;32mWeak Until\033[0m) - φ holds, but ψ may never │
+│  5️⃣  φ W ψ (Weak Until) - φ holds, but ψ may never   │
 │      Time:  0   1   2   3   4   5                    │
-│      φ:    ──✔──✔──✔──✔──✘──✘──                     │
-│      ψ:    ──✘──✘──✘──✘──✔──✔──                     │
+│      φ:    ──✔──✔──✔──✔──✘──✘──                      │
+│      ψ:    ──✘──✘──✘──✘──✔──✔──                      │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 
