@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700"/>
 
 - 🚀 Currently, I'm dedicating my efforts as a maintainer for the Strimzi project. Explore more at [Strimzi.io](https://strimzi.io/).
 - 📬 Reach out to me via my LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/majkl-orsak/)](https://www.linkedin.com/in/majkl-orsak/).
