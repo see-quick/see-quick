@@ -1,10 +1,11 @@
-### Hello! 👋
+### Hello! <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40"/> 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 
-- 🚀 Currently, I'm dedicating my efforts as a maintainer for the Strimzi project. Explore more at [Strimzi.io](https://strimzi.io/).
-- 📬 Reach out to me via my LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/majkl-orsak/)](https://www.linkedin.com/in/majkl-orsak/).
-- 🌐 On a journey of discovery about formal verification methods, always eager to absorb new knowledge and explore rigorous system validations.
-- ✍️ Visit my Blog: [see-quick.github.io](https://see-quick.github.io/)
+- <img src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" width="20"/> Currently, I'm dedicating my efforts as a maintainer for the Strimzi project. Explore more at [Strimzi.io](https://strimzi.io/).
+- <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="20"/> Reach out to me via my LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/majkl-orsak/)](https://www.linkedin.com/in/majkl-orsak/).
+
+- <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" width="20"/> On a journey of discovery about formal verification methods, always eager to absorb new knowledge and explore rigorous system validations.
+- <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="20"/> Visit my Blog: [see-quick.github.io](https://see-quick.github.io/)
 
 ### Latest Blog Posts
 
