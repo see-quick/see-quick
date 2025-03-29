@@ -9,7 +9,7 @@
 
 | Date       | Title                                                                 | Link                                                           |
 |------------|-----------------------------------------------------------------------|----------------------------------------------------------------|
-| 2025-03-29 | 14 🔍 Safety in Formal Verification: Nothing Bad Ever Happens         | [Read more]([https://see-quick.github.io/posts/formal-verification-101/](https://see-quick.github.io/posts/safety/)) |
+| 2025-03-29 | 14 🔍 Safety in Formal Verification: Nothing Bad Ever Happens         | [Read more](https://see-quick.github.io/posts/safety/) |
 | 2025-03-22 | 13 🐞 Formal Verification 101: What, Why, and How                     | [Read more](https://see-quick.github.io/posts/formal-verification-101/) |
 | 2025-03-01 | 12 🚀 Supercharge Your Dev Setup with Neovim, Starship, and WezTerm   | [Read more](https://see-quick.github.io/posts/nvim-sharship-wezterm/) |
 | 2024-12-24 | 11 My Advent of Code 2024 Journey                                     | [Read more](https://see-quick.github.io/posts/advent-of-code-2024/) |
