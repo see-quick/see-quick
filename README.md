@@ -9,7 +9,7 @@
 
 | Date       | Title                                                                 | Link                                                           |
 |------------|-----------------------------------------------------------------------|----------------------------------------------------------------|
-| 2025-10-05 | 18 Apache Kafka: WHAT, WHY, and HOW                                   | [Read more](https://see-quick.github.io/posts/apache-kafka-introduction.md) |
+| 2025-10-05 | 18 📨 Apache Kafka: WHAT, WHY, and HOW                                   | [Read more](https://see-quick.github.io/posts/apache-kafka-introduction.md) |
 | 2025-10-01 | 17 ☕ JDK 25: Practical New Features You'll Actually Use               | [Read more](https://see-quick.github.io/posts/java-25/) |
 | 2025-04-14 | 16 🧪 Model-Based Testing: From Spec to Tests with Quint              |  [Read more](https://see-quick.github.io/posts/model-based-testing-with-formal-verification/) |
 | 2025-04-01 | 15 ⏳ Liveness in Formal Verification: Something Good Eventually Happens | [Read more](https://see-quick.github.io/posts/liveness/) | 
