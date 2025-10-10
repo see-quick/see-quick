@@ -9,6 +9,7 @@
 
 | Date       | Title                                                                 | Link                                                           |
 |------------|-----------------------------------------------------------------------|----------------------------------------------------------------|
+| 2025-10-10 | 20 💾 Kafka Internals #2: Storage Layer & Log Segments                | [Read more](https://see-quick.github.io/posts/kafka-internals-storage-layer-and-log-segments/)
 | 2025-10-07 | 19 📨 Kafka Internals #1: Broker Request Processing Flow               | [Read more](https://see-quick.github.io/posts/kafka-internals-broker-request-processing/)
 | 2025-10-05 | 18 📨 Apache Kafka: WHAT, WHY, and HOW                                 | [Read more](https://see-quick.github.io/posts/apache-kafka-introduction/) |
 | 2025-10-01 | 17 ☕ JDK 25: Practical New Features You'll Actually Use               | [Read more](https://see-quick.github.io/posts/java-25/) |
