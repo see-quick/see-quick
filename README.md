@@ -9,6 +9,7 @@
 
 | Date       | Title                                                                 | Link                                                           |
 |------------|-----------------------------------------------------------------------|----------------------------------------------------------------|
+| 2025-10-16 | 22 🧪 Kafka Practical: Performance Testing & Runtime Verification Through Logs                | [Read more](https://see-quick.github.io/posts/kafka-practical-performance-testing-and-runtime-verification/) |
 | 2025-10-13 | 21 🔄 Kafka Internals #3: Replication Protocol & In-Sync Replicas Management                | [Read more](https://see-quick.github.io/posts/kafka-internals-replication-protocol/) |
 | 2025-10-10 | 20 💾 Kafka Internals #2: Storage Layer & Log Segments                | [Read more](https://see-quick.github.io/posts/kafka-internals-storage-layer-and-log-segments/) |
 | 2025-10-07 | 19 📨 Kafka Internals #1: Broker Request Processing Flow               | [Read more](https://see-quick.github.io/posts/kafka-internals-broker-request-processing/) |
