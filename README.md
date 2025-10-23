@@ -9,7 +9,7 @@
 
 | Date       | Title                                                                 | Link                                                           |
 |------------|-----------------------------------------------------------------------|----------------------------------------------------------------|
-| 2025-10-23 | 24 🔧 Kafka Practical: Consumer Groups | | [Read more](https://see-quick.github.io/posts/kafka-practical-consumer-groups/) |
+| 2025-10-23 | 24 🔧 Kafka Practical: Consumer Groups | [Read more](https://see-quick.github.io/posts/kafka-practical-consumer-groups/) |
 | 2025-10-19 | 23 🤝 Kafka Internals #4: Consumer Groups & Coordination Protocol | [Read more](https://see-quick.github.io/posts/kafka-internals-consumer-groups-coordination/) |
 | 2025-10-16 | 22 🧪 Kafka Practical: Performance Testing & Runtime Verification Through Logs                | [Read more](https://see-quick.github.io/posts/kafka-practical-performance-testing-and-runtime-verification/) |
 | 2025-10-13 | 21 🔄 Kafka Internals #3: Replication Protocol & In-Sync Replicas Management                | [Read more](https://see-quick.github.io/posts/kafka-internals-replication-protocol/) |
