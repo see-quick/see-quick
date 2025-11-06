@@ -9,6 +9,7 @@
 
 | Date       | Title                                                                 | Link                                                           |
 |------------|-----------------------------------------------------------------------|----------------------------------------------------------------|
+| 2025-11-06 | 27 ⚖️ Messaging Systems Comparison | [Read more](https://see-quick.github.io/posts/messaging-systems-comparison/ |
 | 2025-11-01 | 26 📜 The History of Messaging Systems: From Telegraph to Event Streaming | [Read more](https://see-quick.github.io/posts/history-of-messaging-systems/) |
 | 2025-10-28 | 25 🔧 Kafka Practical: Testing with Strimzi Test Containers | [Read more](https://see-quick.github.io/posts/kafka-practical-strimzi-test-containers/) |
 | 2025-10-23 | 24 🔧 Kafka Practical: Consumer Groups | [Read more](https://see-quick.github.io/posts/kafka-practical-consumer-groups/) |
