@@ -9,6 +9,7 @@
 
 | Date       | Title                                                                 | Link                                                           |
 |------------|-----------------------------------------------------------------------|----------------------------------------------------------------|
+| 2026-01-15 | 32 💧 Strimzi Test Container: Simplifying Kafka & Connect Testing | [Read more](https://strimzi.io/blog/2026/01/15/strimzi-test-container/) |
 | 2025-11-23 | 31 🔐 Breaking RSA with Quantum Computing: Shor's Algorithm Explained | [Read more](https://see-quick.github.io/posts/quantum-cryptography-shors-algorithm/) |
 | 2025-11-17 | 30 🔮 Quantum Programming on Your Laptop: Introduction | [Read more](https://see-quick.github.io/posts/quantum-programming-introduction/) |
 | 2025-11-15 | 29 🔌 Model Context Protocol (MCP): From Concept to Code | [Read more](https://see-quick.github.io/posts/mcp-introduction-practical-guide/) |
