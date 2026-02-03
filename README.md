@@ -4,7 +4,8 @@
 - <img src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" width="40"/> **Currently**, I'm dedicating my efforts as a maintainer for the [Strimzi](https://strimzi.io/) project.
 - <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="25"/> **Reach out** via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/majkl-orsak/)
 - <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" width="40"/> **Exploring** formal verification methods and system validation.
-- <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="25"/> **Blog:** [see-quick.github.io](https://see-quick.github.io/)
+- <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="25"/> **Blog:** [see-quick.github.io](https://see-quick.github.io/)                                    
+- 🎯 **Daily Kafka Quiz:** [Test your Apache Kafka knowledge each day!](https://see-quick.github.io/kafka-quiz/)
 ### Latest Blog Posts
 
 | Date       | Title                                                                 | Link                                                           |
