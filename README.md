@@ -10,7 +10,7 @@
 
 | Date       | Title                                                                 | Link                                                           |
 |------------|-----------------------------------------------------------------------|----------------------------------------------------------------|
-| 2026-02-04 | 33 Computability Theory Part 1: The Chomsky Hierarchy and Regular Languages | [Read more](https://strimzi.io/blog/2026/02/04/computability-theory-part-1-regular-languages/) |
+| 2026-02-04 | 33 Computability Theory Part 1: The Chomsky Hierarchy and Regular Languages | [Read more](https:///see-quick.github.io/posts/computability-theory-part-1-regular-languages/) |
 | 2026-01-15 | 32 💧 Strimzi Test Container: Simplifying Kafka & Connect Testing | [Read more](https://strimzi.io/blog/2026/01/15/strimzi-test-container/) |
 | 2025-11-23 | 31 🔐 Breaking RSA with Quantum Computing: Shor's Algorithm Explained | [Read more](https://see-quick.github.io/posts/quantum-cryptography-shors-algorithm/) |
 | 2025-11-17 | 30 🔮 Quantum Programming on Your Laptop: Introduction | [Read more](https://see-quick.github.io/posts/quantum-programming-introduction/) |
