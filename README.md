@@ -10,6 +10,7 @@
 
 | Date       | Title                                                                 | Link                                                           |
 |------------|-----------------------------------------------------------------------|----------------------------------------------------------------|
+| 2026-02-13 | 36 Computability Theory Part 4: Turing Machines and the Hardest Problems |  [Read more](https:///see-quick.github.io/posts/computability-theory-part-4-turing-machines-and-the-hardest-problems/) |
 | 2026-02-07 | 35 Computability Theory Part 3: Context-Sensitive Languages |  [Read more](https:///see-quick.github.io/posts/computability-theory-part-3-context-sensitive-languages/) |
 | 2026-02-06 | 34 Computability Theory Part 2: Context-Free Languages | [Read more](https:///see-quick.github.io/posts/computability-theory-part-2-context-free-languages/) |
 | 2026-02-04 | 33 Computability Theory Part 1: The Chomsky Hierarchy and Regular Languages | [Read more](https:///see-quick.github.io/posts/computability-theory-part-1-regular-languages/) |
