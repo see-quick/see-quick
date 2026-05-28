@@ -10,6 +10,7 @@
 
 | Date       | Title                                                                 | Link                                                           |
 |------------|-----------------------------------------------------------------------|----------------------------------------------------------------
+| 2026-05-28 | 39 Mutation Testing: Why Your Tests Are Lying to You |  [Read more](https://see-quick.github.io/posts/mutation-testing-why-your-tests-are-lying-to-you/) |
 | 2026-05-21 | 38 Computability Theory Part 6: Reductions, Proving Hardness and Solving Problems |  [Read more](https://see-quick.github.io/posts/computability-theory-part-6-reductions/) |
 | 2026-05-15 | 37 Computability Theory Part 5: From Computability to Complexity |  [Read more](https://see-quick.github.io/posts/computability-theory-part-5-from-computability-to-complexity/) |
 | 2026-02-13 | 36 Computability Theory Part 4: Turing Machines and the Hardest Problems |  [Read more](https:///see-quick.github.io/posts/computability-theory-part-4-turing-machines-and-the-hardest-problems/) |
